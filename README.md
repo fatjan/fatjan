@@ -56,8 +56,8 @@ Repository: https://github.com/fatjan/micro-teaching
 
 You can find me on:
 
-- [LinkedIn]https://www.linkedin.com/in/fatma-janna-79803475
-- [Twitter]https://twitter.com/fatmajanna
+- [https://www.linkedin.com/in/fatma-janna-79803475]
+- [https://twitter.com/fatmajanna]
 
 Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
 
