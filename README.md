@@ -59,12 +59,12 @@ Feel free to reach out and connect! I'm always open to interesting discussions a
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatjan&show_icons=true&theme=dark)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatjan&layout=compact)](https://github.com/fatjan/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan-github-streak" /></p>
 
 ...
 
 ## Leetcode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/fatjan?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fatjan)
 
