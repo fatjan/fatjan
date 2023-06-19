@@ -52,15 +52,16 @@ Repository: https://github.com/fatjan/micro-teaching
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatjan&show_icons=true&theme=dark)
 
-## Let's Connect
 
-You can find me on:
-
-- [https://www.linkedin.com/in/fatma-janna-79803475]
-- [https://twitter.com/fatmajanna]
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fatmajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatmajanna-twitter-profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatma-janna-79803475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-janna-79803475-linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fatjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatjan-leetcode" height="30" width="40" /></a>
+</p>
 
 Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/user4131YW?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/fatjan?ext=contest)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan-github-streak" /></p>
