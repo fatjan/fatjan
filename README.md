@@ -46,6 +46,15 @@ Description: A short project for micro-teaching purpose on the mentoring program
 Repository: https://github.com/fatjan/micro-teaching
 
 ...
+## Connect with me
+<a href="https://twitter.com/fatmajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatmajanna-twitter-profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatma-janna-79803475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-janna-79803475-linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fatjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatjan-leetcode" height="30" width="40" /></a>
+</p>
+
+Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
+
+...
 
 ## GitHub Stats
 
@@ -54,13 +63,8 @@ Repository: https://github.com/fatjan/micro-teaching
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan-github-streak" /></p>
 
 ...
-## Connect with me
-<a href="https://twitter.com/fatmajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatmajanna-twitter-profile" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fatma-janna-79803475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-janna-79803475-linkedin-profile" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fatjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatjan-leetcode" height="30" width="40" /></a>
-</p>
 
-Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
+## Leetcode Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fatjan?ext=contest)
 
