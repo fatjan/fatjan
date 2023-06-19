@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Fatma Janna
-
 Hi there! 👋 I'm Fatma Janna, a passionate software developer from Indonesia. Welcome to my GitHub profile! Feel free to explore my repositories and projects. 
 
 ## About Me
@@ -24,6 +22,7 @@ Hi there! 👋 I'm Fatma Janna, a passionate software developer from Indonesia. 
 - 💻 Software Developer
 - 🌱 Currently learning Algorithm and Data Structure using Python
 - 📫 How to reach me: fatma.janna.utp@gmail.com
+- 💬 Ask me about how to get a job in tech industry, how to apply for masters degree with scholarship
 - 😄 Pronouns: she/her
 
 ## Skills
@@ -52,9 +51,10 @@ Repository: https://github.com/fatjan/micro-teaching
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=fatjan&show_icons=true&theme=dark)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan-github-streak" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+...
+## Connect with me
 <a href="https://twitter.com/fatmajanna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fatmajanna-twitter-profile" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fatma-janna-79803475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatma-janna-79803475-linkedin-profile" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fatjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fatjan-leetcode" height="30" width="40" /></a>
@@ -64,4 +64,3 @@ Feel free to reach out and connect! I'm always open to interesting discussions a
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/fatjan?ext=contest)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan-github-streak" /></p>
