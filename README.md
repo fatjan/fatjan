@@ -62,3 +62,5 @@ You can find me on:
 Feel free to reach out and connect! I'm always open to interesting discussions and collaborations.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/user4131YW?ext=contest)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatjan&theme=default" alt="fatjan" /></p>
