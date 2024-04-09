@@ -27,9 +27,9 @@ Hi there! 👋 I'm Fatma Janna, a passionate software developer from Indonesia. 
 
 ## Skills
 
-- Programming Languages: **Python, reactJS, and typescript**
-- Frameworks and Technologies: **expressJS, vueJS, reactJS**
-- Tools and Platforms: **AWS, and  google cloud platform**
+- Programming Languages: **Python, JavaScript**
+- Frameworks and Technologies: **ExpressJS, ReactJS, VueJS**
+- Tools and Platforms: **AWS and GCP**
 - Databases: **MySQL, PostgreSQL, MongoDB, Redis, Firebase, InfluxDB, Prometheus**
 - Version Control: **GitHub, GitLab, BitBucket**
 
